@@ -148,12 +148,9 @@ button {
   position: absolute;
   inset: 0;
   background:
-    linear-gradient(90deg, rgba(8, 9, 12, 0.9) 0%, rgba(8, 9, 12, 0.58) 48%, rgba(8, 9, 12, 0.88) 100%),
-    linear-gradient(180deg, rgba(8, 9, 12, 0.05), var(--bg)),
-    url("11516548fd4b28b668ba971769bee837.jpg");
-  background-position: center 8%;
-  background-size: cover;
-  transform: scale(1.02);
+    linear-gradient(180deg, rgba(8, 9, 12, 0.08), var(--bg) 92%),
+    linear-gradient(135deg, rgba(124, 103, 255, 0.2) 0%, rgba(230, 111, 62, 0.16) 44%, rgba(8, 9, 12, 0) 76%),
+    linear-gradient(90deg, rgba(8, 9, 12, 0.98), rgba(21, 23, 33, 0.86), rgba(8, 9, 12, 0.98));
 }
 
 .hero-content {
